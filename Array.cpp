@@ -15,3 +15,16 @@ int main()
     cout << "Isi data kedua setelah diubah : " << dataku[1] << endl;
     cout << endl;
 
+    //mengisi data dengan perintah satu per satu
+    cout << "Isikan data pertama : ";
+    cin >> datamu[0];
+    cout << "Isikan data kedua : ";
+    cin >> datamu[1];
+    cout << "Isikan data ketiga : ";
+    cin >> datamu[2];
+    cout << "Isikan data keempat : ";
+    cin >> datamu[3];
+    cout << "Isikan data kelima : ";
+    cin >> datamu[4];
+    cout << endl;
+
